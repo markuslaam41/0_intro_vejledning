@@ -41,27 +41,6 @@ Gammel video guide fra sidste år: https://www.youtube.com/watch?v=s5G-KNKbg00
             <li>(I Webstorm ) Gå til GIT indstilingerne og kig på LOG</li>
        </ol>
     </li>
-<li>
-    Måde 2 / terminal 
-        <ol>
-            <li>(på Github.com) Lav et repo på Github.com uden nogen filer, altså uden readme og .gitignore </li>
-            <li>(STIFINDER / EXPLORE ) Find din Øvelsemappe hvor du vil have øvelser i og åben det den med terminalen </li>
-            <li>(TERMINAL) Opret et ny projekt med expo: expo init PROJEKTNAVN</li>
-            <li>Hvis du oprettet med EXPO, så initialisere den git configuration ( så man behøver ikke skrive git init i projektet ) </li>
-            <li>Åben dit nye projekt Øvelse/PROJEKTNAVN i Webstorm</li>
-            <li>(I WebStorm ) find .gitignore og åben filen og tilføj .idea mappen</li>
-            <li>(I Webstorms TERMINAL)Skriv:  git add . </li>
-            <li>(I Webstorms TERMINAL)Skriv:  git commit -m "First commit" </li>
-            <li>(PÅ GITHUB.com) Find det oprettet repositories url fx: https://github.com/Eigilak/video.git</li>
-            <li>(I Webstorms TERMINAL ) At tilføje dit repo skal du skrive : git remote add origin URL, MIT URL ER = https://github.com/Eigilak/video.git</li>
-            <li>(I Webstorms TERMINAL ) Skriv: git remote add origin  https://github.com/Eigilak/video.git</li>
-            <li>(I Webstorms TERMINAL ) Skriv: git remote -v</li>
-            <li>(I Webstorms TERMINAL ) Skriv: git push -u origin master</li>
-            <li>(PÅ GITHUB ) Check om dine ting er pushet</li>
-            <li>(I Webstorm ) Gå til GIT indstilingerne og kig på LOG</li>
-        </ol>
-    </li>
-
 </ol>
 
 <h3>4.Hvordan bruger jeg github med webstorm? ( I Webstorm editor ) </h3>
