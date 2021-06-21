@@ -1,7 +1,7 @@
 
-#Vejledning til opsætning af mac
+## Vejledning til opsætning af mac
 
-###I denne vejledning skal slutproduktet være 
+#### I denne vejledning skal slutproduktet være 
 <ul>
     <li>At have anbefalet IDE, webstorm kørende</li>
     <li>At have expo, React Native frameworket kørende</li>
