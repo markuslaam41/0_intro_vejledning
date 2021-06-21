@@ -13,4 +13,3 @@
 2. Herefter aktiver webstorm --> cmd + space --> søg på webstorm --> tryk på mytrik i nede i venstre hjørne
   og log ind med din intellij konto
       ![Screenshot](billeder/screenshot3.png)
-    1. Hvis din licens er uløbet login her og fix det: https://account.jetbrains.com/login

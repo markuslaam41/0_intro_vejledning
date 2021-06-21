@@ -1,9 +1,12 @@
-# Opsætning af expo - React native Mobil apps
+# Opsætning af expo Windows - React native Mobil apps
 
-#### Før du kan gå igang skal du have følgende:
-1. Node
-   1. Tjekkes ved at åbne terminalen og skrive følgende `Node -v`,
-      og hvis den giver et version nummer som `12.18.3` så er du good to go
-   2. Hvis du får `zsh: command not found`, så følg denne guide
-2. npm eller yarn
-3. 
+#### En forudsætning for at kunne installere expo er at man hentet node
+Hent den anbefalede version(LTS) af Node ved at trykke på følgende link: https://nodejs.org/en/
+
+####Anvend den officielle guide til at installere expo guiden findes på følgende link: https://docs.expo.io/get-started/installation/
+
+- Når installationen er færdig, skal du hente expo app'en fra din AppStore.
+
+- App-ikonet kan ses på billedet herunder:
+  ![expo](billeder/expoIcon.png)
+   
