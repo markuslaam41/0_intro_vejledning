@@ -8,5 +8,5 @@
 </ul> 
 
 ### I mappen ovenover er opsætningen til hhv windows og mac! 
-Mac: https://github.com/Innovationg-og-ny-teknologi-2021/1_intro_vejledning/tree/main/mac 
+Mac: https://github.com/Innovationg-og-ny-teknologi-2021/1_intro_vejledning/tree/main/mac <br>
 Windows: https://github.com/Innovationg-og-ny-teknologi-2021/1_intro_vejledning/tree/main/windows
