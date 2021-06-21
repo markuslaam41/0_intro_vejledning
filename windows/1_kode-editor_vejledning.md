@@ -1,6 +1,11 @@
 
 ## Vejledning til opsætning af Webstorm på windows
 
+På grund af vi har mest erfaring med jetbrains editor  anbefaler vi at
+i installere webstorm som jeres editor. I må gerne bruge andre editorer som atom eller visual studio code, men dem kan vi desværre ikke hjælpe med
+
+
+
 1. Download Webstorm ved at trykke på linket herunder: https://www.jetbrains.com/webstorm/download/#section=mac
    ![Webstorm Home](billeder/webstormHome.png)
 

@@ -1,6 +1,7 @@
 
 ## Vejledning til opsætning af webstorm ( kodeeditor til mac )
-
+På grund af vi har mest erfaring med jetbrains editor  anbefaler vi at
+i installere webstorm som jeres editor. I må gerne bruge andre editorer som atom eller visual studio code, men dem kan vi desværre ikke hjælpe med 
 
 ##Opsætning af anbefalet IDE (Kode editor), Webstorm
 
