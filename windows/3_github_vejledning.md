@@ -1,6 +1,6 @@
 # Hvordan sætter jeg mit projekt op med webstorm og github (╯°□°)╯︵ ┻━┻
 
-Gammel video guide fra sidste år: https://www.youtube.com/watch?v=s5G-KNKbg00
+Kursusvideoguide: https://www.youtube.com/watch?v=s5G-KNKbg00
 
 <h3>1. Hvordan opretter jeg et nyt repo på Github? ( GITHUB.com ) </h3>
 <ol>
