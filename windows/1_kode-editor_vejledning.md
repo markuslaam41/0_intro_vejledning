@@ -1,8 +1,7 @@
 
 ## Vejledning til opsætning af Webstorm på windows
 
-På grund af vi har mest erfaring med jetbrains editor  anbefaler vi at
-i installere webstorm som jeres editor. I må gerne bruge andre editorer som atom eller visual studio code, men dem kan vi desværre ikke hjælpe med
+Det anbefales af I benytter Webstorm som jeres editor. I må gerne bruge andre editorer, såsom atom eller visual studio code, men det er editorer, som medunderviserne har begrænset erfaring med. 
 
 
 
