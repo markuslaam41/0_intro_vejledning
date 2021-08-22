@@ -30,4 +30,4 @@
 
 
 <a href="https://github.com/Innovationg-og-ny-teknologi-2021/0_intro_vejledning/blob/main/windows/3_github_vejledning.md
-" target="_blank">TRYK HER FOR NSÆTE VEJLEDNING</a>
+" target="_blank">GÅ TIL GITHUB VEJLEDNING</a>
