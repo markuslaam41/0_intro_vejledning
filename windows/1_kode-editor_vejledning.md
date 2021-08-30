@@ -3,7 +3,7 @@
 
 Det anbefales af I benytter Webstorm som jeres editor. I må gerne bruge andre editorer, såsom atom eller visual studio code, men det er editorer, som medunderviserne har begrænset erfaring med. 
 
-Har du ikke brugt Webstorm før, skal du lave en ny Webstorm-konto på:
+Har du ikke brugt Webstorm før, skal du lave en ny Webstorm-konto på: https://account.jetbrains.com
 
 1. Download Webstorm ved at trykke på linket herunder: https://www.jetbrains.com/webstorm/download/#section=windows
    ![Webstorm Home](billeder/webstormHome.png)
