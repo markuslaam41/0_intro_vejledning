@@ -5,7 +5,7 @@ Det anbefales af I benytter Webstorm som jeres editor. I må gerne bruge andre e
 
 Har du ikke brugt Webstorm før, skal du lave en ny Webstorm-konto på:
 
-1. Download Webstorm ved at trykke på linket herunder: https://www.jetbrains.com/webstorm/download/#section=mac
+1. Download Webstorm ved at trykke på linket herunder: https://www.jetbrains.com/webstorm/download/#section=windows
    ![Webstorm Home](billeder/webstormHome.png)
 
 
