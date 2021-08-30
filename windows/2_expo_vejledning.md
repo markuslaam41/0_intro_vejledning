@@ -5,8 +5,7 @@
 - Du kan tjekke om du allerede har node ved at skrive `node -v` i terminalen. Hvis terminalen returnerer med en versionsbeskrivelse, er alt i orden og du kan hoppe til næste punkt i denne vejledning. 
 
 #### Anvend den officielle guide til at installere expo CLI. Guiden findes på følgende link: https://docs.expo.io/get-started/installation/
-
-- Du skal installerer den fra din Kommandoprompt
+- Du skal installerer den fra din Kommandoprompt (terminal)
 - Når installationen er færdig, skal du hente expo appen fra din AppStore.
  
   ![expo](billeder/expoIcon.png)
