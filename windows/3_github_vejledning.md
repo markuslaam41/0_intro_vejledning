@@ -2,7 +2,7 @@
 
 Kursusvideoguide: https://www.youtube.com/watch?v=s5G-KNKbg00
 
-<h3>1. Hvordan opretter jeg et nyt repo på Github? ( GITHUB.com ) </h3>
+<h3>1. Hvordan opretter jeg et nyt repository (repo) på Github? ( GITHUB.com ) </h3>
 <ol>
     <li>Login på github og gå til root url: github.com/</li>
     <li>Til højre ved siden af din profil kan du tilføje et nyt repo ved at trykke på plus og så New repository</li>
