@@ -14,7 +14,7 @@ Kursusvideoguide: https://www.youtube.com/watch?v=s5G-KNKbg00
 
 <h3>2.Opsættelse af githubbruger / git til webStorm ( I Webstorm ) </h3>
 <ol>
-    <li>Gå til Preferences </li>
+    <li>Gå til Preferences  </li> [comment]: <> [SZ: HVOR???]
     <li>Gå til Version Control</li>
     <li>Gå til GITHUB</li>
     <li>Klik plus og login med dine creds</li>
