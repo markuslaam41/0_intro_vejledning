@@ -1,9 +1,10 @@
 
+
 ## Vejledning til opsætning af Webstorm på windows
 
 Det anbefales af I benytter Webstorm som jeres editor. I må gerne bruge andre editorer, såsom atom eller visual studio code, men det er editorer, som medunderviserne har begrænset erfaring med. 
 
-0. Har du ikke brugt Webstorm før, skal du lave en ny Webstorm-konto på: https://account.jetbrains.com - du skal også aktivere en student-license [BILLEDE FRA TEAMSDIKUSSION]
+0. Har du ikke brugt Webstorm før, skal du lave en ny Webstorm-konto på: https://account.jetbrains.com - du skal også aktivere en student-license ![Studentslicense](https://user-images.githubusercontent.com/85865074/131469143-25a2ca3c-a1a9-42bf-a469-1bdba099dea2.PNG)
 
 1. Download Webstorm ved at trykke på linket herunder: https://www.jetbrains.com/webstorm/download/#section=windows
    ![Webstorm Home](billeder/webstormHome.png)
