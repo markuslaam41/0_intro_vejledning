@@ -24,7 +24,7 @@ Kursusvideoguide: https://www.youtube.com/watch?v=s5G-KNKbg00
 
 <h3>3. Tilføje eksisterende projekt til nyt rep i github (2 måder) </h3>
 <ol>
-   <li> Måde 1 - Kun med Webstorm ( anbefalet )
+   <li> Kun med Webstorm ( anbefalet )
        <ol>
            <li>(på Github.com) Lav et repo på Github.com uden nogen filer, altså uden readme og .gitignore </li>
            <li>(på Github.com) Lav et repo på Github.com uden nogen filer, altså uden readme og .gitignore </li>
