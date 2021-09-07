@@ -1,6 +1,8 @@
 # Hvordan sætter jeg mit projekt op med webstorm og github (╯°□°)╯︵ ┻━┻
 
-Gammel video guide fra sidste år: https://www.youtube.com/watch?v=s5G-KNKbg00
+Guide: https://www.youtube.com/watch?v=s5G-KNKbg00
+
+Krav: du har en github konto
 
 <h3>1. Hvordan opretter jeg et nyt repo på Github? ( GITHUB.com ) </h3>
 <ol>
@@ -17,15 +19,14 @@ Gammel video guide fra sidste år: https://www.youtube.com/watch?v=s5G-KNKbg00
     <li>Gå til Preferences </li>
     <li>Gå til Version Control</li>
     <li>Gå til GITHUB</li>
-    <li>Klik plus og login med dine creds</li>
+    <li>Klik plus og login med dine creds GUIDE: https://www.jetbrains.com/help/idea/github.html</li>
     <li><b>Hvad gør det?</b> <br> At du ikke skal logge ind med github hvergang du har et nyt projekt tilknyttet et nyt repo. Plus, så skal du kun bruge GUI og ikke terminalen</li>
 </ol>
 
 <h3>3. Tilføje eksisterende projekt til nyt rep i github (2 måder) </h3>
 <ol>
-   <li> Måde 1 - Kun med Webstorm ( anbefalet )
+   <li> Med Webstorm ( anbefalet )
        <ol>
-           <li>(på Github.com) Lav et repo på Github.com uden nogen filer, altså uden readme og .gitignore </li>
            <li>(på Github.com) Lav et repo på Github.com uden nogen filer, altså uden readme og .gitignore </li>
            <li>(TERMINAL) Opret et ny projekt med expo: expo init PROJEKTNAVN</li>
             <li>Hvis du oprettet med EXPO, så initialisere den git configuration ( så man behøver ikke skrive git init i projektet ) </li>
