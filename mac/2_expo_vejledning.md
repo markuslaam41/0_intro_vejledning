@@ -22,7 +22,7 @@
    2.  Kør `watchman --v ` for at tjekke om det er installeret
    3. læs mere på https://facebook.github.io/watchman/docs/install.html 
 
-####Anvend den officielle guide til at installere expo guiden findes på følgende link: https://docs.expo.io/get-started/installation/
+#### Anvend den officielle guide til at installere expo guiden findes på følgende link: https://docs.expo.io/get-started/installation/
 - OBS - Det er vigtigt at skrive npm install --global expo-cli og IKKE npm install expo-cli
 
 Når installationen er færdig, skal du hente expo-app'en fra din AppStore.
