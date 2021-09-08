@@ -1,7 +1,7 @@
 # Opsætning af expo - React native Mobil apps
 
 #### Før du kan gå igang skal du have følgende:
-1. **Command line developer tools**
+1. **Command line developer tools** ( ikke et krav ) 
    1. Har du det installeret? tjek ved at skrive `xcode-select --version`i terminalen
    2. Installer command line developer tools med `xcode-select --install` i terminalen. 
    2. Du skal være færdig med at installere dette værktøj før du kan gå videre 
