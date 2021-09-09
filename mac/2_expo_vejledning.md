@@ -45,3 +45,12 @@ Når installationen er færdig, skal du hente expo-app'en fra din AppStore.
    
 5. resultatet skulle være at du skal se denne tekst `Open up App.js to start working on your app!`
 6. prøv at ændre i webstorm filen app.js og se teksten ændre sig
+
+
+
+### Fejl og løsninger
+1. Får du fejl med at installere watchman, så prøv at afinstallere homebrew og installer det igen : https://github.com/Homebrew/install
+   - Kan også løse mange andre problemer med homebrew
+2. Kan du ikke køre Tunnel funktionen med expo? --> stop serveren med control + c, også skriv npm install -global @expo/ngrok
+3. Problemer med webstorm ikke kan oprette forbindelse: Bliv med at opdatere det til at du kan
+4. Kan du ikke installere xcode-select --install eller går det for langsomt, så hop af eduroam, og gør det på din mobils wifi
