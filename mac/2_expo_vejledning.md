@@ -54,5 +54,7 @@ Når installationen er færdig, skal du hente expo-app'en fra din AppStore.
 2. Kan du ikke køre Tunnel funktionen med expo? --> stop serveren med control + c, også skriv npm install -global @expo/ngrok
 3. Problemer med webstorm ikke kan oprette forbindelse: Bliv med at opdatere det til at du kan
 4. Kan du ikke installere xcode-select --install eller går det for langsomt, så hop af eduroam, og gør det på din mobils wifi
-5. Har du problemer med at expo instanst crash: så prøv at gå ind under indstillinger --> security --> privacy og så  full disk access og tryk watchman af ![Skærmbillede 2021-09-10 kl  10 00 54](https://user-images.githubusercontent.com/48329669/132821334-3768fa81-2a01-4bbf-8d51-5cfd65161352.png)
+5. Har du problemer med at expo instanst crash: så prøv at gå ind under indstillinger --> security --> privacy og så  full disk access og tryk watchman af !
+
+[Skærmbillede 2021-09-10 kl  10 00 54](https://user-images.githubusercontent.com/48329669/132821334-3768fa81-2a01-4bbf-8d51-5cfd65161352.png)
 
