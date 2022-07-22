@@ -1,10 +1,10 @@
-## Vejledning til opsætning til øvelser af innovation og ny teknologi 2021
+## Vejledning til opsætning til øvelser af innovation og ny teknologi 2022
 
 #### I denne vejledning skal slutproduktet være
 <ul>
     <li>At have anbefalet IDE, webstorm installeret og kørende</li>
     <li>At have expo, React Native frameworket kørende</li>
-    <li>At have en github konto og lavet dit første commit til et repository</li>
+    <li>At have en github konto og have lavet dit første commit til et repository</li>
 </ul> 
 
 ### I mappen ovenover er opsætningen til hhv windows og mac! 
