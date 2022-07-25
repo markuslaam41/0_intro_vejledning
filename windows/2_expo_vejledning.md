@@ -15,7 +15,7 @@
 - Følg guiden der findes på følgende link: https://docs.expo.io/get-started/create-a-new-app/
 
 #### Kør dit først expo projekt!
-1. Navigér ind til den mappe, som projektet skal placeres i via terminalen (cd & cd..)
+1. Navigér ind til den mappe, som projektet skal placeres i via terminalen (`cd` & `cd..`)
 
 2. Skriv nu `expo init projektnavn` og vælg 'blank'
 3. Find nu dit projekt i Webstorm, og aktivér projektet ved at skrive
