@@ -2,7 +2,7 @@
 
 #### En forudsætning for at kunne installere expo er at man hentet node
 - Hent den anbefalede version(LTS) af Node ved at trykke på følgende link: https://nodejs.org/en/
-- Du kan tjekke om du allerede har node ved at skrive `node -v` i terminalen. Hvis terminalen returnerer med en versionsbeskrivelse, er alt i orden og du kan hoppe til næste punkt i denne vejledning. 
+- Du kan tjekke om du allerede har node ved at skrive `node -v` i terminalen. Hvis terminalen returnerer med en versionsbeskrivelse, som ikke er alt for gammel, er alt i orden og du kan hoppe til næste punkt i denne vejledning. 
 
 #### Anvend den officielle guide til at installere expo CLI. Guiden findes på følgende link: https://docs.expo.io/get-started/installation/
 - Du skal installerer den fra din Kommandoprompt (terminal)
@@ -19,10 +19,11 @@
 
 2. Skriv nu `expo init projektnavn` og vælg 'blank'
 3. Find nu dit projekt i Webstorm, og aktivér projektet ved at skrive
-   `npm start` i terminalen
+   `expo start` i terminalen
    ![img.png](billeder/screenshot4.png)
 
-4. Dernæst åbnes et vindue med expo intefacet. Her skal du trykke på "tunnel" i venstre side for at scanne din første app. Scanning foregår ved brug af expo appen.
+4. Dernæst åbnes terminalen med expo interfacet. Check først at din computer og telefon kører på det samme net. Scanning af QR-koden foregår ved brug af expo appen.
+#### OBS!!! Hvis cbs-nettet / eduroam ikke virker, kan det være nødvendigt at gå på mobil-hotspot. 
    ![](billeder/screenshot5.png)
 
 5. Resultatet skulle være at du skal se denne tekst `Open up App.js to start working on your app!`

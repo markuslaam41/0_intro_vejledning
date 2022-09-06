@@ -28,7 +28,7 @@ Kursusvideoguide: https://www.youtube.com/watch?v=s5G-KNKbg00
        <ol>
            <li>(på Github.com) Lav et repo på Github.com uden nogen filer, altså uden readme og .gitignore </li>
            <li>(på Github.com) Lav et repo på Github.com uden nogen filer, altså uden readme og .gitignore </li>
-           <li>(TERMINAL) Opret et ny projekt med expo: expo init PROJEKTNAVN</li>
+           <li>(TERMINAL) Opret et ny projekt med expo: expo init PROJEKTNAVN </li>
             <li>Hvis du oprettet med EXPO, så initialisere den git configuration ( så man behøver ikke skrive git init i projektet ) </li>
             <li>Åben dit nye projekt Øvelse/PROJEKTNAVN i Webstorm</li>
            <li>(I WebStorm ) find .gitignore og åben filen og tilføj .idea mappen</li>
